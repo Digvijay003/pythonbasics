@@ -1,11 +1,11 @@
 #override explicitly inheritance
 class Parent():
     def override(self):
-        print "override explicitly inheritance ko samjo"
+        print "override explicitly inheritance "
 
 class Child(Parent):
     def override(self):
-        print "samjo samjo yar"
+        print "heloo"
 
 dad = Parent()
 son = Child()
