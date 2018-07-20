@@ -1,7 +1,7 @@
 #class inheritance concepts
 class Parent():
     def implicit(self):
-        print"implicit inheritance samjo"
+        print"implicit inheritance"
 
 class Child(Parent):
     pass
